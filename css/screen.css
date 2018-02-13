@@ -225,6 +225,13 @@ label {
   display: block;
 }
 
+input{
+  background-color: #A097A2;
+}
 
+#submit{
+  color: white; 
+  font-weight: bold; 
+}
 
 
