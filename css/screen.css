@@ -217,9 +217,14 @@ p{
   margin-bottom: 1.182em;
 }
 
+li{
+  margin-bottom: 1.182em; 
+}
+
 label {
   display: block;
 }
+
 
 
 
