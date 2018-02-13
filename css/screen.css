@@ -227,6 +227,11 @@ label {
 
 input{
   background-color: #A097A2;
+  border: none; 
+}
+
+input: focus{
+  outline: none; 
 }
 
 #submit{
@@ -235,6 +240,14 @@ input{
 }
 
 @media screen and (min-width: 960px){
+  
+  body{
+    background-color: #D4CDD5; 
+    font-family: 'Spectral SC', 'Garamond', serif;
+    margin-left: auto; 
+    margin-right: auto; 
+    width: 100%; 
+  }
   
 }
 
