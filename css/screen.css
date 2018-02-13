@@ -198,13 +198,13 @@ html {
   text-rendering: optimizeLegibility;
 }
 
+body{
+  background-color: #D4CDD5; 
+}
+
 label {
   display: block;
 }
 
-/* ===== LAYOUT STYLES ====== */
 
-/* ===== MODULAR STYLES ===== */
-
-/* ===== STATE STYLES ======= */
 
