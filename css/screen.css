@@ -230,7 +230,7 @@ input{
   border: none; 
 }
 
-input: focus{
+input:focus{
   outline: none; 
 }
 
